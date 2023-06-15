@@ -1,10 +1,3 @@
-// read more
-let readMore = document.querySelector('.read-more');
-const paragraph = document.querySelector('.para');
-
-readMore.onclick = () => {
-    paragraph.classList.toggle('open');
-}
 
     
     /*  === toggle icon navbar === */
